@@ -1,0 +1,16 @@
+{
+    "name": "3d-battle-simulator",
+    "version": "1.0.0",
+    "description": "3D Battle Simulator Game",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "dotenv": "^16.0.3"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+}
